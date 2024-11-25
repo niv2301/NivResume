@@ -5,7 +5,7 @@ const experiences = [
     company: 'Unity',
     role: 'Technical Solutions Engineer',
     duration: 'June 2022 - Present',
-    description: 'Investigate and resolve complex issues, working closely with R&D and business teams. Requires strong problem-solving skills and communication abilities.',
+    description: 'Collaborate with publishers to resolve technical challenges, including ANRs, crashes, and platform discrepancies, ensuring seamless performance and integration. Develop demo applications leveraging our tool, LevelPlay, to showcase best practices and integration techniques. Investigate and troubleshoot complex issues in close coordination with R&D and business teams, demonstrating strong problem-solving expertise and effective communication skills to deliver impactful solutions.',
   },
   {
     company: 'Nitzanim',
