@@ -1,2 +1,2 @@
 Visit my resume here:
-https://niv2301.github.io/NivResume/
+https://niv-resume.vercel.app/
