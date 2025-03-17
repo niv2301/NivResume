@@ -2,6 +2,11 @@ import React from 'react';
 
 const projects = [
   {
+    title: 'AI Quiz Game',
+    description: 'AI Quiz Game is an interactive app where users answer trivia questions generated using OpenAIs GPT model. \nThis project includes a React front-end and a Node.js/Express back-end, creating a fun and dynamic quiz experience.',
+    technologies: ['Node.js', 'React Native', 'AI'],
+    url: 'https://github.com/niv2301/ai-quiz-game',
+  },{
     title: 'Synchronization Experiences',
     description: 'Investigated how variations in synchronization experiences impact user perceptions. Developed using Node.js for the server and React Native for the client.',
     technologies: ['Node.js', 'React Native', 'JavaScript'],

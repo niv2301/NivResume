@@ -5,7 +5,8 @@ const experiences = [
     company: 'Unity',
     role: 'Technical Solutions Engineer',
     duration: 'June 2022 - Present',
-    description: 'Collaborate with publishers to resolve technical challenges, including ANRs, crashes, and platform discrepancies, ensuring seamless performance and integration. Develop demo applications leveraging our tool, LevelPlay, to showcase best practices and integration techniques. Investigate and troubleshoot complex issues in close coordination with R&D and business teams, demonstrating strong problem-solving expertise and effective communication skills to deliver impactful solutions.',
+    description: 'I have experience troubleshooting and resolving complex technical issues within the mobile industry, focusing on SDK and API integrations to ensure seamless functionality for big publishers in the industry.\nI am skilled in using tools like Postman and Charles Proxy for debugging and testing mobile applications and backend systems and identifying root causes of system-level issues using monitoring tools like Kibana.\nMy expertise includes working with development environments such as Unity3D, Xcode, and Android Studio, with proficiency in programming languages like Java, C#, and Objective-C.\nI have a strong background in collaborating with cross-functional teams, including R&D and Product, to deliver customer-focused solutions.'
+    ,
   },
   {
     company: 'Nitzanim',
